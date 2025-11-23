@@ -7,7 +7,7 @@
  - Keep raising the tile more until you reach your max
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Note
- - It is recommended to not go over "1080" for your tile number
+ - It is recommended to not go over "1920" for your tile number
  - 1080 will make a 1080p video render 1 full frame at a time
  - You can increase Worker Counts if your pc can handle it, this makes it render more frames at once
  - Setting the tile number to 0 will leave it uncapped (not good)
@@ -15,6 +15,7 @@
 # Recommended Tile Numbers
  - **Low End**: 64, 128, 256
  - **High End**: 512, 796, 1080
+ - **Maximum Recommended**: 1920
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Outscale
  - Outscaling is double what it actually says
