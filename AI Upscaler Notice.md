@@ -21,3 +21,51 @@
  - Outscaling is double what it actually says
  - A 2x outscale will turn 1080p into 4k, not 2k
  - It multiplies the height and width instead of the actual resolution
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Models
+ - RealESRGAN_x4plus
+ - RealESRNet_x4plus
+ - RealESRGAN_x2plus
+ - realesr-general-x4v3
+ - RealESRGAN_x4plus_anime_6B
+ - realesr-animevideov3
+(x4 is for turning 1080p to 8k, 720p to 4k etc)
+(x2 is for turning 1080p to 4k, 720p to 2k etc)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Commands
+ - tile
+ - tile_pad
+ - pre_pad
+ - outscale
+ - fp32 / fp16
+ - suffix
+ - ext
+ - gpu_id
+ - face_enhance
+ - face_enhance_tile
+ - face_enhance_gpu_id
+ - alpha-_upsampler
+ - model_path
+ - cpu
+ - denoise
+ - verbose
+ - tile_mode
+ - hal_precision
+ - int8
+ - num_threads
+ - output_8bit
+ - export_onnx
+ - export_torchscript
+ - shop
+ - precision
+ - input_scale
+ - save_metadata
+ - overwrite
+ - quiet
+ - fps
+ - extract_frame_first
+ - num_process_per_gpu
+ - ffmpeg_bin
+ - video
+ - audio
+ - consumer
