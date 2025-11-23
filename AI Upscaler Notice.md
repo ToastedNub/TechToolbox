@@ -11,6 +11,7 @@
  - 1920 will make a 1080p video render 1 full frame at a time
  - You can increase Worker Counts if your pc can handle it, this makes it render more frames at once
  - Setting the tile number to 0 will leave it uncapped (not good)
+ - **THIS IS ONLY FOR THE x2 MODELS, THE x4 MODELS ARE A LOT MORE INTENSIVE**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Recommended Tile Numbers
  - **Low End**: 64, 128, 256
