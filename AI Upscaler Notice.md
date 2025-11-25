@@ -44,7 +44,7 @@
  - The x2 models are meant for upscaling 1080p to 4k, or 720p to 2k
  - The x4 models are meant for upscaling 1080p to 8k, or 920p to 4k
  - The x4 models are a lot more intensive, and will use a lot more VRAM
- 
+ # Model List
  - RealESRGAN_x4plus
  - RealESRNet_x4plus
  - RealESRGAN_x2plus
@@ -59,7 +59,7 @@
  - To find where the commands in a script are listed
  - Search "--tile" and you will find where they are
  - All of these ones listed have presets, you can change them, these are just to mark what type each one uses
-
+# Command List
  - "tile" "0"
  - "tile_pad" "0"
  - "pre_pad" "0"
