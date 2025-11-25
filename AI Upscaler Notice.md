@@ -3,6 +3,7 @@
  - Read the README files when you download this
  - Build file included
  - In the Scripts folder, FrameVideo, Gif, and Image all have the commands and the model in the script, FullVideo uses a json, the json is in the COMMANDS folder
+ - **This needs a lot of space to run without errors, make sure it is either on its own drive, or in a place with 250+GB freed, assuming youre upscaling anything over a couple minutes long**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # How It Works
  - The FullVideo Option has less potential to bug, but will have the end result be lower quality than the regular Video Option
