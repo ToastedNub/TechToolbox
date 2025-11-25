@@ -86,7 +86,8 @@
  - "consumer" "1"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Command List (All Other Scripts)
- - "--tile", "256",                   		 Tile size for processing images in patches; 0 = no tiling (Tiling options are listed in the READMES)
+ - "--tile", "256",
+Tile size for processing images in patches; 0 = no tiling (Tiling options are listed in the READMES)
  - "--tile_pad", "0",                 		 Padding added around tiles to avoid seams (10, 20 recommended)
  - "--pre_pad", "0",                  		 Padding added before processing the whole image (10, 20 recommended)
  - "--outscale", "2",                 		Scale factor for output image (1, 2, 4, 8)
