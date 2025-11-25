@@ -1,10 +1,7 @@
 # Important
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- - Check all of the main scripts for the AI Upscaler (in the Scripts folder).
- - Make sure "--tile" is set to "256", if you do not have a fast pc.
- - Open Task Manager, run one of the scripts, and watch your GPUs VRAM
- - You want to keep at least 2-3gb freed at all times, otherwise you risk damaging your system over time, and causing errors like a BSOD
- - Keep raising the tile more until you reach your max
+ - Read the README files when you download this
+ - Build file included
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # How It Works
  - The FullVideo Option has less potential to bug, but will have the end result be lower quality than the regular Video Option
