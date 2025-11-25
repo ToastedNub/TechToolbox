@@ -6,6 +6,20 @@
  - You want to keep at least 2-3gb freed at all times, otherwise you risk damaging your system over time, and causing errors like a BSOD
  - Keep raising the tile more until you reach your max
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# How It Works
+ - The FullVideo Option has less potential to bug, but will have the end result be lower quality than the regular Video Option
+ - Put your things in the MEDIA folder (Videos, Gifs, Pictures)
+ - Run the "Start" file
+ - Choose your media in the console
+ - Let the AI run (it can take a long time if it has a lot of frames)
+ - When done, the export is in the OUTPUT folder
+ - FullVideo uses a json for commands, the json is in the COMMANDS folder
+ - EACH SCRIPT HAS A WORKER COUNT, you edit this in the script
+ - The very first line says where the worker count is
+ - You generally want to keep at least 2-3gb of vram freed at all times (more workers uses a lot more vram)
+ - All worker counts are currently set to 1, and models are set to the regular 2x model, for low power until configured
+ - Tile size should never be set to 0, it will render the full image at once, this can cause a lot of lag
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Note
  - It is recommended to not go over "1920" for your tile number
  - 1920 will make a 1080p video render 1 full frame at a time
@@ -24,6 +38,13 @@
  - It multiplies the height and width instead of the actual resolution
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Models
+ - A list of all the models you can use
+ - You edit the scripts to use them
+ - As of download, all scripts use "RealESRGAN_x2plus", so you can search that in the script to find the line to change it easier (its always at the top of the script)
+ - The x2 models are meant for upscaling 1080p to 4k, or 720p to 2k
+ - The x4 models are meant for upscaling 1080p to 8k, or 920p to 4k
+ - The x4 models are a lot more intensive, and will use a lot more VRAM
+ 
  - RealESRGAN_x4plus
  - RealESRNet_x4plus
  - RealESRGAN_x2plus
@@ -34,39 +55,110 @@
 (x2 is for turning 1080p to 4k, 720p to 2k etc)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Commands
- - tile
- - tile_pad
- - pre_pad
- - outscale
- - fp32 / fp16
- - suffix
- - ext
- - gpu_id
- - face_enhance
- - face_enhance_tile
- - face_enhance_gpu_id
- - alpha-_upsampler
- - model_path
- - cpu
- - denoise
- - verbose
- - tile_mode
- - hal_precision
- - int8
- - num_threads
- - output_8bit
- - export_onnx
- - export_torchscript
- - shop
- - precision
- - input_scale
- - save_metadata
- - overwrite
- - quiet
- - fps
- - extract_frame_first
- - num_process_per_gpu
- - ffmpeg_bin
- - video
- - audio
- - consumer
+ - A list of all the models you can use
+ - To find where the commands in a script are listed
+ - Search "--tile" and you will find where they are
+ - All of these ones listed have presets, you can change them, these are just to mark what type each one uses
+
+ - "tile" "0"
+ - "tile_pad" "0"
+ - "pre_pad" "0"
+ - "outscale" "0"
+ - "fp32",
+ - "suffix" ""
+ - "ext" "mp4"
+ - "gpu_id" "0"
+ - "face_enhance"
+ - "face_enhance_tile" "400"
+ - "face_enhance_gpu_id" "0"
+ - "alpha_upsampler" "realesrgan"
+ - "model_path" ""
+ - "denoise" "0.0"
+ - "verbose"
+ - "version"
+ - "help"
+ - "tile_mode" "0"
+ - "half_precision"
+ - "int8"
+ - "num_threads" "4"
+ - "output_8bit"
+ - "export_onnx" ""
+ - "export_torchscript" ""
+ - "chop"
+ - "precision" "fp32"
+ - "input_scale" "1.0"
+ - "save_metadata"
+ - "overwrite"
+ - "quiet"
+ - "fps" "null"
+ - "extract_frame_first"
+ - "num_process_per_gpu" "1"
+ - "ffmpeg_bin" "ffmpeg"
+ - "video"
+ - "audio"
+ - "consumer" "1"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Tiling
+ - All of these were tested on a 1080p video
+ - All of these were tested using the "RealESRGAN_xplus" model, any x4 model will use a lot more VRAM than what is listed here
+ - All of these are not 100% accurate, they might be slightly different depending on your specs, and how intense the frames you are upscaling are
+ - These all use the Default settings and commands with 1 worker
+ - GB is for how much VRAM each will use (on top of what your system uses on its own)
+# x2plus models
+ - 32:2 GB
+ - 48:2 GB
+ - 64:2 GB
+ - 80:2 GB
+ - 96:2 GB
+ - 112:2 GB
+ - 128:2 GB
+ - 160:2 GB
+ - 192:2 GB
+ - 224:2 GB
+ - 256:2 GB
+ - 288:2 GB
+ - 320:3 GB
+ - 352:3 GB
+ - 384:3 GB
+ - 416:3 GB
+ - 448:3 GB
+ - 512:3 GB
+ - 640:3 GB
+ - 768:4 GB
+ - 896:5 GB
+ - 960:5 GB
+ - 1024:6 GB
+ - 1280:7 GB
+ - 1536:7 GB
+ - 1600:8 GB
+ - 1792:8 GB
+ - 1920:9 GB
+# x4plus models
+ - 32:2 GB
+ - 48:2 GB
+ - 64:2 GB
+ - 80:2 GB
+ - 96:2 GB
+ - 112:2 GB
+ - 128:2 GB
+ - 160:3 GB
+ - 192:3 GB
+ - 224:3 GB
+ - 256:3 GB
+ - 288:3 GB
+ - 320:4 GB
+ - 352:4 GB
+ - 384:4 GB
+ - 416:4 GB
+ - 448:5 GB
+ - 512:6 GB
+ - 640:8 GB
+ - 768:10 GB
+ - 896:13 GB
+ - 960:14 GB
+ - 1024:16 GB
+ - 1280:18 GB
+ - 1536:20 GB
+ - 1600:24 GB
+ - 1792:24+ GB
+ - 1920:24+ GB
