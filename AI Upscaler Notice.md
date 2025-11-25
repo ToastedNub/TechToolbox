@@ -86,39 +86,38 @@
  - "consumer" "1"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Command List (All Other Scripts)
- - "--tile", "256",
-Tile size for processing images in patches; 0 = no tiling (Tiling options are listed in the READMES)
- - "--tile_pad", "0",                 		 Padding added around tiles to avoid seams (10, 20 recommended)
- - "--pre_pad", "0",                  		 Padding added before processing the whole image (10, 20 recommended)
- - "--outscale", "2",                 		Scale factor for output image (1, 2, 4, 8)
- - "--gpu-id", "0",                   		 GPU ID to use (default 0)
- - "--fp32",                         		 Use FP32 precision (more stable, slower than FP16)
- - "--output", "output.png",                Output file path (alternative to -o)
- - "--face_enhance",                 		  Enable face enhancement (requires specific face model)
- - "--face_enhance_tile", "400",      	  Tile size for face enhancement (default 400)
- - "--face_enhance_gpu_id", "0",      	  GPU ID to use for face enhancement (default 0)
- - "--alpha_upsampler", "realesrgan",		  Alpha channel upsampling method: 'realesrgan', 'bicubic'
- - "--suffix", "_out",                	  Output file suffix (default "_out")
- - "--ext", "png",                   		  Output file extension (png, jpg, jpeg)
- - "--model_path", "path/to/model.pth", 	  Custom path to load model weights
- - "--cpu",                          		  Force CPU usage instead of GPU
- - "--denoise", "0.1",               		  Denoising strength, 0 to 1 (only if supported by the model)
- - "--verbose",                      		  Enable verbose logging for debugging
- - "--version",                     		  Show version information and exit
- - "--help",                        		  Show help message and exit
- - "--tile_mode", "0",              		  Tile mode option (0, 1, 2) - controls overlapping tile strategy
- - "--half_precision",              		  Use half precision FP16 (usually default on supported GPUs)
- - "--int8",                       		  Use int8 quantization (model dependent)
- - "--num_threads", "4",           		  Number of CPU threads to use (only if CPU mode)
- - "--output_8bit",                		  Output 8-bit images even if model outputs 16-bit
- - "--export_onnx", "model.onnx", 		  Export the model to ONNX format
- - "--export_torchscript", "model.ts", 	  Export model to TorchScript format
- - "--chop",                      		  Enable chopping to reduce memory for large images (alternative to tiling)
- - "--precision", "fp32",          		  Precision mode: fp16 or fp32
- - "--input_scale", "1.0",         		  Scale input images before processing
- - "--save_metadata",              		  Save metadata from input images
- - "--overwrite",                  		  Overwrite existing output files without prompt
- - "--quiet",                     		  Run without printing output messages
+ - "--tile", "256",                           Tile size for processing images in patches; 0 = no tiling (Tiling options are listed in the READMES)
+ - "--tile_pad", "0",                 		      Padding added around tiles to avoid seams (10, 20 recommended)
+ - "--pre_pad", "0",                  		      Padding added before processing the whole image (10, 20 recommended)
+ - "--outscale", "2",                 		      Scale factor for output image (1, 2, 4, 8)
+ - "--gpu-id", "0",                   		      GPU ID to use (default 0)
+ - "--fp32",                         		       Use FP32 precision (more stable, slower than FP16)
+ - "--output", "output.png",                  Output file path (alternative to -o)
+ - "--face_enhance",                 		       Enable face enhancement (requires specific face model)
+ - "--face_enhance_tile", "400",           	  Tile size for face enhancement (default 400)
+ - "--face_enhance_gpu_id", "0",           	  GPU ID to use for face enhancement (default 0)
+ - "--alpha_upsampler", "realesrgan",	     	  Alpha channel upsampling method: 'realesrgan', 'bicubic'
+ - "--suffix", "_out",                	       Output file suffix (default "_out")
+ - "--ext", "png",                   		       Output file extension (png, jpg, jpeg)
+ - "--model_path", "path/to/model.pth", 	     Custom path to load model weights
+ - "--cpu",                          	     	  Force CPU usage instead of GPU
+ - "--denoise", "0.1",               	     	  Denoising strength, 0 to 1 (only if supported by the model)
+ - "--verbose",                      	     	  Enable verbose logging for debugging
+ - "--version",                     		        Show version information and exit
+ - "--help",                              		  Show help message and exit
+ - "--tile_mode", "0",                    		  Tile mode option (0, 1, 2) - controls overlapping tile strategy
+ - "--half_precision",                    		  Use half precision FP16 (usually default on supported GPUs)
+ - "--int8",                       	       	  Use int8 quantization (model dependent)
+ - "--num_threads", "4",           	       	  Number of CPU threads to use (only if CPU mode)
+ - "--output_8bit",                		         Output 8-bit images even if model outputs 16-bit
+ - "--export_onnx", "model.onnx", 		          Export the model to ONNX format
+ - "--export_torchscript", "model.ts", 	      Export model to TorchScript format
+ - "--chop",                      		          Enable chopping to reduce memory for large images (alternative to tiling)
+ - "--precision", "fp32",                 		  Precision mode: fp16 or fp32
+ - "--input_scale", "1.0",         	       	  Scale input images before processing
+ - "--save_metadata",              		         Save metadata from input images
+ - "--overwrite",                  	       	  Overwrite existing output files without prompt
+ - "--quiet",                     		          Run without printing output messages
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Tiling
  - All of these were tested on a 1080p video
