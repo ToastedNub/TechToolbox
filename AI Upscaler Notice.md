@@ -2,6 +2,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - Read the README files when you download this
  - Build file included
+ - In the Scripts folder, FrameVideo, Gif, and Image all have the commands and the model in the script, FullVideo uses a json, the json is in the COMMANDS folder
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # How It Works
  - The FullVideo Option has less potential to bug, but will have the end result be lower quality than the regular Video Option
@@ -16,18 +17,6 @@
  - You generally want to keep at least 2-3gb of vram freed at all times (more workers uses a lot more vram)
  - All worker counts are currently set to 1, and models are set to the regular 2x model, for low power until configured
  - Tile size should never be set to 0, it will render the full image at once, this can cause a lot of lag
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Note
- - It is recommended to not go over "1920" for your tile number
- - 1920 will make a 1080p video render 1 full frame at a time
- - You can increase Worker Counts if your pc can handle it, this makes it render more frames at once
- - Setting the tile number to 0 will leave it uncapped (not good)
- - **THIS IS ONLY FOR THE x2 MODELS, THE x4 MODELS ARE A LOT MORE INTENSIVE**
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Recommended Tile Numbers
- - **Low End**: 64, 128, 256
- - **High End**: 512, 796, 1080
- - **Maximum Recommended**: 1920
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Outscale
  - Outscaling is double what it actually says
@@ -99,7 +88,7 @@
  - All of these were tested on a 1080p video
  - All of these were tested using the "RealESRGAN_xplus" model, any x4 model will use a lot more VRAM than what is listed here
  - All of these are not 100% accurate, they might be slightly different depending on your specs, and how intense the frames you are upscaling are
- - These all use the Default settings and commands with 1 worker
+ - These all use the Default settings and commands with 1 worker, more commands/workers will use more VRAM
  - GB is for how much VRAM each will use (on top of what your system uses on its own)
 # x2plus models
  - 32:2 GB
