@@ -47,7 +47,7 @@
  - Search "--tile" and you will find where they are
  - All of these ones listed have presets, you can change them, these are just to mark what type each one uses
 # Command List (FullVideo Script)
- - "tile" "0"
+ - "tile" "256"
  - "tile_pad" "0"
  - "pre_pad" "0"
  - "outscale" "0"
@@ -126,6 +126,7 @@
  - These all use the Default settings and commands with 1 worker, more commands/workers will use more VRAM
  - GB is for how much VRAM each will use (on top of what your system uses on its own)
 # x2plus models
+ - 0:As much as it needs, this will render the entire frame at once
  - 32:2 GB
  - 48:2 GB
  - 64:2 GB
@@ -155,6 +156,7 @@
  - 1792:8 GB
  - 1920:9 GB
 # x4plus models
+ - 0:As much as it needs, this will render the entire frame at once
  - 32:2 GB
  - 48:2 GB
  - 64:2 GB
