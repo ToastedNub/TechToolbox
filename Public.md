@@ -14,6 +14,7 @@
 - [WinDerStat](https://windirstat.net/index-selected.html): Directory Statistics
 - [x64dbg](https://x64dbg.com/): Open Source Assembly Viewer
 - [VoiceMeter](https://vb-audio.com/Voicemeeter): Virtual Audio Mixer
+- [Discord Bounding Video Maker](https://github.com/OIRNOIR/WackyWebM): Makes bouncy video memes
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
  - [Ninite](https://ninite.com/#:~:text=Ninite%20-%20Install%20or%20Update%20Multiple%20Apps%20at%20Once): Installs multiple things at once (goot for setting up a new pc)
