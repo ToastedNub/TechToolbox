@@ -4,7 +4,6 @@
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
- - All the scripts are easy to read (assuming you understand Python)
  - All of these scripts use **[PYTHON](https://www.python.org/downloads/)** and you need Python installed to PATH - **[PYTHON PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=H7iqfv5dzRY)**
  - A lot of these scripts use **[FFMPEG](https://ffmpeg.org/download.html)** and you need Ffmpeg installed to PATH - **[FFMPEG PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=JR36oH35Fgg)**
  - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
