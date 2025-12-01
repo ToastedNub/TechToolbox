@@ -16,7 +16,7 @@
  - [AI Upscaler](https://drive.google.com/file/d/1MrGBWx5XKKCT8aMx46iE-2WktrzF_z8g/view?usp=sharing): Upscale & Enhance any Video, Gif, or Image by **4x, 8x, 16x, or keeping resolution and just enhance** **[IMPORTANT README](https://github.com/ToastedNub/TechToolbox/blob/main/AI%20Upscaler%20Notice.md)**
  - [AI Frame Interpolator](https://drive.google.com/file/d/10Ht0OjyYAf3-08I1VvcuvWnea1L_oG-i/view?usp=sharing): Add frames to Videos or Gifs (BETA)
  - [AI Clip Maker](https://drive.google.com/file/d/1wy-wknD7jLQauVGdbmKUhjOa8NKSsPhv/view?usp=sharing): Automatically get clips out of your videos with custom settings
- - [AI GD Bot](https://drive.google.com/file/d/1b_WW29mcI7P3k4lqn2q3dEYoqDGSv_q5/view?usp=sharing): Automatically learns to play Geometry Dash
+ - [AI GD Bot & Model Trainer](https://drive.google.com/file/d/1b_WW29mcI7P3k4lqn2q3dEYoqDGSv_q5/view?usp=sharing): Automatically learns to play Geometry Dash
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Video Editor](https://drive.google.com/file/d/1oqXdpuAim6FDzp_EmJYUD36HRaMdvljV/view?usp=sharing): free fully modular video editor
