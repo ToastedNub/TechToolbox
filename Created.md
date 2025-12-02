@@ -20,7 +20,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Video Editor](https://drive.google.com/file/d/1oqXdpuAim6FDzp_EmJYUD36HRaMdvljV/view?usp=sharing): free fully modular video editor
- - [Adaptive Scaler](https://drive.google.com/file/d/1tolA6yCfPn194sfZkLMCh_WbuY57mwVk/view?usp=sharing): Scale videos to the size of your choice
+ - [Adaptive Scaler](https://drive.google.com/file/d/1tolA6yCfPn194sfZkLMCh_WbuY57mwVk/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
