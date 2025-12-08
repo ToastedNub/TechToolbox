@@ -1,7 +1,8 @@
-# TechToolBox   https://drive.google.com/file/d/1E5jy3iIFzEsO_UY4-zgi1ZoHRoE1ejZ9/view?usp=sharing
+# TechToolBox
  - **[GET HELP](https://discord.gg/eUBfTeFYvB)**
  - **[REQUEST TO ADD SOMETHING](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
+ - [Torch & Cuda](https://drive.google.com/file/d/1E5jy3iIFzEsO_UY4-zgi1ZoHRoE1ejZ9/view?usp=sharing)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
  - All of these scripts use **[PYTHON](https://www.python.org/downloads/)** and you need Python installed to PATH - **[PYTHON PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=H7iqfv5dzRY)**
