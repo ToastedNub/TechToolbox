@@ -1,4 +1,4 @@
-# TechToolBox
+# TechToolBox   https://drive.google.com/file/d/1E5jy3iIFzEsO_UY4-zgi1ZoHRoE1ejZ9/view?usp=sharing
  - **[GET HELP](https://discord.gg/eUBfTeFYvB)**
  - **[REQUEST TO ADD SOMETHING](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
@@ -13,7 +13,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Tools
  - Cuda & Torch are required for most of the AI Tools: [Info Here](https://github.com/ToastedNub/My-Public-Scripts/blob/main/Cuda%20%26%20Torch%20Installs.md)
- - [AI Upscaler](https://drive.google.com/file/d/1MrGBWx5XKKCT8aMx46iE-2WktrzF_z8g/view?usp=sharing): Upscale & Enhance anything by **4x, 8x, 16x, or keep resolution** **[README](https://github.com/ToastedNub/TechToolbox/blob/main/AI%20Upscaler%20Notice.md)** - [CUDA VER](https://drive.google.com/file/d/1zYIPIauBFrW0OSEBFPZ6lR8ArRD3XzJT/view?usp=sharing)
+ - [AI Upscaler](https://drive.google.com/file/d/1MrGBWx5XKKCT8aMx46iE-2WktrzF_z8g/view?usp=sharing): Upscale & Enhance anything by **4x, 8x, 16x, or keep resolution** **[README](https://drive.google.com/file/d/1fJCD_eLeWATuSqBt8o3GJ1PB62R4TRBZ/view?usp=sharing)** - [CUDA VER](https://drive.google.com/file/d/1zYIPIauBFrW0OSEBFPZ6lR8ArRD3XzJT/view?usp=sharing)
  - [AI Frame Interpolator](https://drive.google.com/file/d/10Ht0OjyYAf3-08I1VvcuvWnea1L_oG-i/view?usp=sharing): Add frames to Videos or Gifs (BETA)
  - [AI Clip Maker](https://drive.google.com/file/d/1wy-wknD7jLQauVGdbmKUhjOa8NKSsPhv/view?usp=sharing): Automatically get clips out of your videos with custom settings
  - [AI GD Bot & Model Trainer](https://drive.google.com/file/d/1d6TB77ePgKHrB-ncB6mMidsPQVSjS2pS/view?usp=sharing): Automatically learns to play Geometry Dash (Training List ID: 972430)
