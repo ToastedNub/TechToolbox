@@ -5,7 +5,7 @@
  - **[TORCH & CUDA](https://drive.google.com/file/d/1E5jy3iIFzEsO_UY4-zgi1ZoHRoE1ejZ9/view?usp=sharing)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
- - **MOST** of these scripts use **[PYTHON](https://www.python.org/downloads/)** and you need Python installed to PATH - **[PYTHON PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=H7iqfv5dzRY)**
+ - All of these scripts use **[PYTHON](https://www.python.org/downloads/)** and you need Python installed to PATH - **[PYTHON PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=H7iqfv5dzRY)**
  - A lot of these scripts use **[FFMPEG](https://ffmpeg.org/download.html)** and you need Ffmpeg installed to PATH - **[FFMPEG PATH INSTALLATION GUIDE](https://www.youtube.com/watch?v=JR36oH35Fgg)**
  - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
  - If you are unable to Extract the scripts, you need to download **[WINRAR](https://www.win-rar.com/start.html?&L=0)**
@@ -21,7 +21,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Video Editor](https://drive.google.com/file/d/1oqXdpuAim6FDzp_EmJYUD36HRaMdvljV/view?usp=sharing): free fully modular video editor
- - [Adaptive Scaler](https://drive.google.com/file/d/1ngfL9YTh_qNtkObTpSycp6lAjwSMQj7t/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1MwTM7OBJhmeBYT8GcMRzGoPNnEMrBjw9/view?usp=sharing) - [C++ Version](https://drive.google.com/file/d/1ke8UXeDm0Xw_nNU9RYojZXq3t9IDVaPK/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+ - [Adaptive Scaler](https://drive.google.com/file/d/1ury5a9BhE52U229ekXDBylcyyZt_Oe5a/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1YfGOrmwMiq-DUC4MMAoe7U-4UdDRMSup/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
