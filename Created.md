@@ -17,11 +17,11 @@
  - [AI Upscaler](https://drive.google.com/file/d/1MrGBWx5XKKCT8aMx46iE-2WktrzF_z8g/view?usp=sharing): Upscale & Enhance anything by **4x, 8x, 16x, or keep resolution** **[README](https://drive.google.com/file/d/1fJCD_eLeWATuSqBt8o3GJ1PB62R4TRBZ/view?usp=sharing)** - [CUDA VER](https://drive.google.com/file/d/1zYIPIauBFrW0OSEBFPZ6lR8ArRD3XzJT/view?usp=sharing)
  - [AI Frame Interpolator](https://drive.google.com/file/d/10Ht0OjyYAf3-08I1VvcuvWnea1L_oG-i/view?usp=sharing): Add frames to Videos or Gifs (BETA)
  - [AI Clip Maker](https://drive.google.com/file/d/1wy-wknD7jLQauVGdbmKUhjOa8NKSsPhv/view?usp=sharing): Automatically get clips out of your videos with custom settings
- - [AI GD Bot & Model Trainer](https://drive.google.com/file/d/1d6TB77ePgKHrB-ncB6mMidsPQVSjS2pS/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1aq2kaTA_VSm-QRtrr_2WSPUAJnyL5rwx/view?usp=sharing): Automatically learns to play Geometry Dash (Training List ID: 972430)
+ - [AI GD Bot & Model Trainer](https://drive.google.com/file/d/1d6TB77ePgKHrB-ncB6mMidsPQVSjS2pS/view?usp=sharing): Automatically learns to play Geometry Dash (Training List ID: 972430)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Video Editor](https://drive.google.com/file/d/1oqXdpuAim6FDzp_EmJYUD36HRaMdvljV/view?usp=sharing): free fully modular video editor
- - [Adaptive Scaler](https://drive.google.com/file/d/1ngfL9YTh_qNtkObTpSycp6lAjwSMQj7t/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+ - [Adaptive Scaler](https://drive.google.com/file/d/1ngfL9YTh_qNtkObTpSycp6lAjwSMQj7t/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1aq2kaTA_VSm-QRtrr_2WSPUAJnyL5rwx/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
