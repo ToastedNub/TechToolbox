@@ -5,7 +5,12 @@
  - **[PYTHON LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Python.md)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
-# Everything here is already built, and ready to run
+ - All of these scripts use **C++**
+ - All of these scripts are **already built**, and **ready to use when downloaded**
+ - You can use **[VS CODE](https://code.visualstudio.com)** to edit the scripts easier, some of these scirpts will need you to edit them a little bit
+ - If you are unable to Extract the scripts, you need to download **[WINRAR](https://www.win-rar.com/start.html?&L=0)**
+ - **ALL SCRIPTS START WITH AN EXE**
+ - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Tools
  - [AI Upscaler](https://drive.google.com/file/d/1vq1J3fgwOGMOMSG_hckQ72Cnv9hJ870j/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
