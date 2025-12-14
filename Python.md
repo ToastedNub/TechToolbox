@@ -2,6 +2,7 @@
  - **[GET HELP](https://discord.gg/eUBfTeFYvB)**
  - **[REQUEST TO ADD SOMETHING](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
+ - **[C++ LIST](https://github.com/ToastedNub/TechToolbox/blob/main/C++.md)**
  - **[TORCH & CUDA](https://drive.google.com/file/d/1E5jy3iIFzEsO_UY4-zgi1ZoHRoE1ejZ9/view?usp=sharing)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
