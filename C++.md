@@ -2,6 +2,7 @@
  - **[GET HELP](https://discord.gg/eUBfTeFYvB)**
  - **[REQUEST TO ADD SOMETHING](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
+ - **[PYTHON LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Python.md)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
 # Everything here is already built, and ready to run
