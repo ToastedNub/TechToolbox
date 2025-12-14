@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
 - [Video Upscaler](https://drive.google.com/file/d/1ke8UXeDm0Xw_nNU9RYojZXq3t9IDVaPK/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
-- [Adaptive Scaler](https://drive.google.com/file/d/1d-0kz7mcg_Wp7mWrnzpXuDFmksUH9OQT/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+- [Adaptive Scaler](https://drive.google.com/file/d/1Bg08wQakdCDJizCRgbfd40QAOExrVYNe/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
- - [Polling Rate Test](https://drive.google.com/file/d/1qVP7VUEsn1ZwNLLIgbpx-pYad36uBroG/view?usp=sharing): Logs the polling rate of your device
+- [Polling Rate Test](https://drive.google.com/file/d/1qVP7VUEsn1ZwNLLIgbpx-pYad36uBroG/view?usp=sharing): Logs the polling rate of your device
