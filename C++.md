@@ -6,6 +6,7 @@
 # Media Tools
 - [Video Upscaler](https://drive.google.com/file/d/1ke8UXeDm0Xw_nNU9RYojZXq3t9IDVaPK/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
 - [Adaptive Scaler](https://drive.google.com/file/d/1hsae_Yc2qVc7_vty1dY8_k4Svcg3oAgK/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+- [YouTube Downloader](https://drive.google.com/file/d/18_Ubfog1Rr-uCBcm0hPROMnlxIuDfWgx/view?usp=sharing): Download YouTube Videos as an mp3 or mp4, bypasses almost everything
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
 - [Polling Rate Test](https://drive.google.com/file/d/1qVP7VUEsn1ZwNLLIgbpx-pYad36uBroG/view?usp=sharing): Logs the polling rate of your device
