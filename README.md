@@ -3,3 +3,5 @@
  - [C++](https://github.com/ToastedNub/TechToolbox/blob/main/C%2B%2B.md): Everything here is already built into an exe, ready to be used when downloaded
 # **NOT MADE BY ME**
  - [Public List](https://github.com/ToastedNub/TechToolbox/blob/main/Public.md)
+# Info
+ - Anything with the tag **(BETA)**, is unfinished, they work, but are not ready for full use yet
