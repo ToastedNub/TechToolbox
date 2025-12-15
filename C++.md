@@ -19,6 +19,7 @@
 # Media Tools
 - [Video Upscaler](https://drive.google.com/file/d/1ke8UXeDm0Xw_nNU9RYojZXq3t9IDVaPK/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
 - [Adaptive Scaler](https://drive.google.com/file/d/1hsae_Yc2qVc7_vty1dY8_k4Svcg3oAgK/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/14iRP0SjokOfOOtFpgiw1FpvKn3SSSVbD/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality) (Plus Version does enhance quality)
+- [File Size Shrinker](https://drive.google.com/file/d/1Vftragxik7ZPEXcThDUCcRyfYzMsahqC/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
 - [YouTube Downloader](https://drive.google.com/file/d/18_Ubfog1Rr-uCBcm0hPROMnlxIuDfWgx/view?usp=sharing): Download YouTube Videos as an mp3 or mp4, bypasses almost everything
