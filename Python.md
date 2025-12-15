@@ -37,4 +37,5 @@
  - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
  - [Extreme Compressor](https://drive.google.com/file/d/1Sd6X5ZvDspjYvWM-kv3qv7NzznWmuMT_/view?usp=sharing): Compresses Video file size by a lot (more for memes)
  - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
+ - [LLM BUilder](https://drive.google.com/file/d/1W3mnU7fRU_NluDr4HUk29GlRWoFF_fzx/view?usp=sharing): Used to create and test LLM models
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
