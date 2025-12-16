@@ -30,3 +30,4 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
 - [Polling Rate Test](https://drive.google.com/file/d/1tRROqSuGMYorK13L1rsnJFNP9S_sDWDU/view?usp=sharing): Logs the polling rate of your device
+- [All in One](https://drive.google.com/file/d/1PQ__B_i2T20j0iZ4iM79tVk6E75RBLe-/view?usp=sharing): Has all the main files in one package
