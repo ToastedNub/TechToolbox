@@ -22,7 +22,6 @@
  - [AI Frame Interpolator](https://drive.google.com/file/d/1jh-_oqscZmuM2SMZQ2HN_dS6BVlI5z_d/view?usp=sharing): Add frames to Videos or Gifs (BETA)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
-- [Video Upscaler](https://drive.google.com/file/d/1ke8UXeDm0Xw_nNU9RYojZXq3t9IDVaPK/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
 - [Adaptive Scaler](https://drive.google.com/file/d/1hsae_Yc2qVc7_vty1dY8_k4Svcg3oAgK/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/14iRP0SjokOfOOtFpgiw1FpvKn3SSSVbD/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality) (Plus Version does enhance quality)
 - [File Size Shrinker](https://drive.google.com/file/d/1RikqahiYSVuDJQpFTl6NOD4wEZkLCDFh/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
