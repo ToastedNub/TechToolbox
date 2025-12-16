@@ -4,6 +4,10 @@
  - **You need [VISUAL STUDIO](https://visualstudio.microsoft.com) installed for these**
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
  - **[PYTHON LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Python.md)**
+ - **All scriptes require one of the C++ redists below, depending on your system**
+ - [ARM64](https://aka.ms/vc14/vc_redist.arm64.exe)
+ - [x86](https://aka.ms/vc14/vc_redist.x86.exe)
+ - [x64](https://aka.ms/vc14/vc_redist.x64.exe)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
  - All of these scripts use **C++**
