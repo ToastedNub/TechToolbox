@@ -24,6 +24,7 @@
  - [Video Editor](https://drive.google.com/file/d/1oqXdpuAim6FDzp_EmJYUD36HRaMdvljV/view?usp=sharing): free fully modular video editor
  - [Adaptive Scaler](https://drive.google.com/file/d/13RQrBWssM_AF96h1qljfqlEui65lxAJu/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1O65cHn0o_Ob6Fn274Bh3_0oscp1gLqON/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality) (Plus Version does enhance quality)
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
+ - [Frame Alignment Fixer](https://drive.google.com/file/d/1i61S7JhEp8QNYqg7iXOBxKqQRZjQKckU/view?usp=sharing): Used to fix frameskips from exported videos
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
  - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
