@@ -4,7 +4,7 @@
  - **You need [VISUAL STUDIO](https://visualstudio.microsoft.com) installed for these**
  - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
  - **[PYTHON LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Python.md)**
- - **All scriptes require the C++ redists below, depending on your system**
+ - **All scripts require the C++ redists below**
  - [Visual Studio](https://visualstudio.microsoft.com/): This is required
  - Once you open the **Visual Studio Installer**, make sure you add **Desktop Development C++** to the install
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
