@@ -26,7 +26,7 @@
  - [File Size Shrinker](https://drive.google.com/file/d/1RikqahiYSVuDJQpFTl6NOD4wEZkLCDFh/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
- - [YouTube Downloader](https://drive.google.com/file/d/1PlQeDIYWB6LBQgpjdW_tsCpUYv8f17zA/view?usp=sharing): Download YouTube Videos as an mp3 or mp4, bypasses almost everything
+ - [YouTube Downloader](https://drive.google.com/file/d/1DrtYjSYqe9Z-g9ElhVbm52Y8OlgUPNLx/view?usp=sharing): Download YouTube Videos as an mp3 or mp4, bypasses almost everything
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
  - [Polling Rate Test](https://drive.google.com/file/d/1tRROqSuGMYorK13L1rsnJFNP9S_sDWDU/view?usp=sharing): Logs the polling rate of your device
