@@ -19,6 +19,7 @@
  - [AI Frame Interpolator](https://drive.google.com/file/d/139J_yMSZpIvNR-MOF6Z_UpxDBw6y0q6e/view?usp=sharing): Add frames to Videos or Gifs - [CUDA VER](https://drive.google.com/file/d/1zYIPIauBFrW0OSEBFPZ6lR8ArRD3XzJT/view?usp=sharing)
  - [AI Clip Maker](https://drive.google.com/file/d/1wy-wknD7jLQauVGdbmKUhjOa8NKSsPhv/view?usp=sharing): Automatically get clips out of your videos with custom settings
  - [AI GD Bot & Model Trainer](https://drive.google.com/file/d/1d6TB77ePgKHrB-ncB6mMidsPQVSjS2pS/view?usp=sharing): Automatically learns to play Geometry Dash (Training List ID: 972430)
+ - [AI Project Creator](https://drive.google.com/file/d/1QhxlqcdvxjhSh6nkmvMt4MaarkGJqMLD/view?usp=sharing): Tell it what you want to build, it builds and bug tests it for you, gving you the fully working version
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Video Editor](https://drive.google.com/file/d/1oqXdpuAim6FDzp_EmJYUD36HRaMdvljV/view?usp=sharing): free fully modular video editor
