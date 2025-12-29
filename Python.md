@@ -22,7 +22,7 @@
  - [AI Project Creator](https://drive.google.com/file/d/1QhxlqcdvxjhSh6nkmvMt4MaarkGJqMLD/view?usp=sharing): Tell it what you want to build, it builds and bug tests it for you, gving you the fully working version
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
- - [Video Editor](https://drive.google.com/file/d/1w5Vhu0QhKPJM31q9TMjNHmQpHpKK8NX6/view?usp=sharing): free fully modular video editor
+ - [Video Editor](https://drive.google.com/file/d/163_V8EFAn00FNnFfQ4S2kqvobTMqjunl/view?usp=sharing): free fully modular video editor
  - [Adaptive Scaler](https://drive.google.com/file/d/13RQrBWssM_AF96h1qljfqlEui65lxAJu/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1O65cHn0o_Ob6Fn274Bh3_0oscp1gLqON/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality) (Plus Version does enhance quality)
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
  - [Frame Alignment Fixer](https://drive.google.com/file/d/1i61S7JhEp8QNYqg7iXOBxKqQRZjQKckU/view?usp=sharing): Used to fix frameskips from exported videos
