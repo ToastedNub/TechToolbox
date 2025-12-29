@@ -28,7 +28,7 @@
  - [Frame Alignment Fixer](https://drive.google.com/file/d/1i61S7JhEp8QNYqg7iXOBxKqQRZjQKckU/view?usp=sharing): Used to fix frameskips from exported videos
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
- - [Reddit Downloader](https://drive.google.com/file/d/1vdOxjXEdrKLKfXtXIrI2pm54WLnTEsbx/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
+ - [Reddit Downloader](https://drive.google.com/file/d/1DfCTF6DrK_AtnS0Fkr__uupVQBJyN-Gm/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
  - [YouTube Downloader](https://drive.google.com/file/d/1B7azTy-MneYO1AGufMmIodykkGVbqZ7v/view?usp=sharing): Download YouTube Videos to MP3 or MP4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Installers
