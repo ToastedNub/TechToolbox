@@ -13,8 +13,8 @@
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Tools
- - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1JJxXNUKNTHmI2799u0fJtYaVsctkwq80/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
- - [AI Frame Interpolator](https://drive.google.com/file/d/1hYKa5-LejoS09dLtGvwaPQ62kgrD8S9w/view?usp=sharing): Add frames to Videos or Gifs (BETA)
+ - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1eq-aBViQydrKHGKxN8lBl4rlP8jeOBnH/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
+ - [RIFE AI Frame Interpolator](https://drive.google.com/file/d/1xIZJdMwynQJ4BnIwCnPjep1D2bC_wkAB/view?usp=sharing): Add frames to Videos or Gifs (BETA)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [File Size Shrinker](https://drive.google.com/file/d/1RM74o-5yTK-4kB1VH7Bnc9ZGZvWBmTLY/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
