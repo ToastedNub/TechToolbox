@@ -1,10 +1,10 @@
 # TechToolBox
  - **[LIST](https://github.com/ToastedNub/TechToolbox/blob/main/README.md)**
- - **[DISCORD](https://discord.gg/h5MVS3xbjV)**
+ - **[DISCORD](https://discord.gg/h5MVS3xbjV)** < Password Here
 # Requirements
  - **[NODE JS](https://nodejs.org/en/download/current)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Downloaders
- - [YouTube Downloader](https://drive.google.com/file/d/1Yauqdtzdfb4bcd9F48_hvLNfbEPtndsI/view?usp=sharing): Downloads YouTube Videos as MP3 or MP4
+ - [YouTube Downloader](https://drive.google.com/file/d/1X3l3XjOiIPBaUwvkrlrBb1xQMu_WcG-n/view?usp=sharing): Downloads YouTube Videos as MP3 or MP4
