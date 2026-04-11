@@ -14,15 +14,9 @@
  - [All in One](https://drive.google.com/file/d/1PQ__B_i2T20j0iZ4iM79tVk6E75RBLe-/view?usp=sharing): Has all the main files in one package
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Tools
- - [AI Upscaler](https://drive.google.com/file/d/1cYk9ccqWa4PDnHpN0pjQvOVHfu4KEAZL/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
+ - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1cYk9ccqWa4PDnHpN0pjQvOVHfu4KEAZL/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
  - [AI Frame Interpolator](https://drive.google.com/file/d/1jh-_oqscZmuM2SMZQ2HN_dS6BVlI5z_d/view?usp=sharing): Add frames to Videos or Gifs (BETA)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Adaptive Scaler](https://drive.google.com/file/d/1hsae_Yc2qVc7_vty1dY8_k4Svcg3oAgK/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/14iRP0SjokOfOOtFpgiw1FpvKn3SSSVbD/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality) (Plus Version does enhance quality)
  - [File Size Shrinker](https://drive.google.com/file/d/1RikqahiYSVuDJQpFTl6NOD4wEZkLCDFh/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Downloaders
- - [YouTube Downloader](https://drive.google.com/file/d/1dr-FW4EgQ7bdwe0ijrXbQjLscMXaMD0H/view?usp=sharing): Download YouTube Videos as an mp3 or mp4, bypasses almost everything
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Miscellaneous
- - [Polling Rate Test](https://drive.google.com/file/d/1tRROqSuGMYorK13L1rsnJFNP9S_sDWDU/view?usp=sharing): Logs the polling rate of your device
