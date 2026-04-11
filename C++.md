@@ -1,7 +1,8 @@
 # TechToolBox
  - **[LIST](https://github.com/ToastedNub/TechToolbox/blob/main/README.md)**
  - **[REQUEST TO ADD SOMETHING](https://discord.gg/h5MVS3xbjV)**
- - **You need [VISUAL STUDIO](https://visualstudio.microsoft.com) installed for these**
+# Requirements
+ - **[VISUAL STUDIO](https://visualstudio.microsoft.com)**: You need C++ Desktop Development Kit
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
  - All of these scripts use **C++**
