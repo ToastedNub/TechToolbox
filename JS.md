@@ -1,6 +1,6 @@
 # TechToolBox
  - **[LIST](https://github.com/ToastedNub/TechToolbox/blob/main/README.md)**
- - **[REQUEST TO ADD SOMETHING](https://discord.gg/h5MVS3xbjV)**
+ - **[DISCORD](https://discord.gg/h5MVS3xbjV)**
 # Requirements
  - **[NODE JS](https://nodejs.org/en/download/current)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
