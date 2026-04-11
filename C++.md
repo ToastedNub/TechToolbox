@@ -11,11 +11,12 @@
  - If you are unable to Extract the scripts, you need to download **[WINRAR](https://www.win-rar.com/start.html?&L=0)**
  - **ALL SCRIPTS START WITH AN EXE**
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
- - [All in One](https://drive.google.com/file/d/1PQ__B_i2T20j0iZ4iM79tVk6E75RBLe-/view?usp=sharing): Has all the main files in one package
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Tools
- - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1cYk9ccqWa4PDnHpN0pjQvOVHfu4KEAZL/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
- - [AI Frame Interpolator](https://drive.google.com/file/d/1jh-_oqscZmuM2SMZQ2HN_dS6BVlI5z_d/view?usp=sharing): Add frames to Videos or Gifs (BETA)
+ - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1JJxXNUKNTHmI2799u0fJtYaVsctkwq80/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
+ - [AI Frame Interpolator](https://drive.google.com/file/d/1hYKa5-LejoS09dLtGvwaPQ62kgrD8S9w/view?usp=sharing): Add frames to Videos or Gifs (BETA)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
- - [File Size Shrinker](https://drive.google.com/file/d/1RikqahiYSVuDJQpFTl6NOD4wEZkLCDFh/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
+ - [File Size Shrinker](https://drive.google.com/file/d/1RM74o-5yTK-4kB1VH7Bnc9ZGZvWBmTLY/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
+ - [Adaptive Scaler](https://drive.google.com/file/d/1G2UC4vDVqHyc7Zyu6yyk6Ha2la_CNq_m/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+ - [Adaptive Scaler Plus](https://drive.google.com/file/d/1nVxRKeiaVLd4TZko6-9aQpnJXPu5qHit/view?usp=sharing): Same as Adaptive Scaler, but DOES enhance quality with resolution
