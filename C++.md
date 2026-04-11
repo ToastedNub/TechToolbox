@@ -1,6 +1,6 @@
 # TechToolBox
  - **[LIST](https://github.com/ToastedNub/TechToolbox/blob/main/README.md)**
- - **[DISCORD](https://discord.gg/h5MVS3xbjV)**
+ - **[DISCORD](https://discord.gg/h5MVS3xbjV)** < Password Here
 # Requirements
  - **[VISUAL STUDIO](https://visualstudio.microsoft.com)**: You need C++ Desktop Development Kit
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
