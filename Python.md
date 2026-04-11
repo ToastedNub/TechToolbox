@@ -31,13 +31,7 @@
  - [Reddit Downloader](https://drive.google.com/file/d/1DfCTF6DrK_AtnS0Fkr__uupVQBJyN-Gm/view?usp=sharing): Mass download Videos, Gifs, and Pictures from Reddit
  - [YouTube Downloader](https://drive.google.com/file/d/1B7azTy-MneYO1AGufMmIodykkGVbqZ7v/view?usp=sharing): Download YouTube Videos to MP3 or MP4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Installers
- - [Cuda & Torch Installer](https://drive.google.com/file/d/1OhTUjf_92Tb8fSzZjUTk_wgSmNdKZSha/view?usp=sharing): Installes Cuda, TorchVision, and TorchAudio, depending on your gpu
- - [FFMPEG Installer](https://drive.google.com/file/d/1EbUm78FuCHwBN7bbl3bSs1-s9xf5nNFe/view?usp=sharing): Automatically installs FFMPEG to system path
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Miscellaneous
- - [Simple AI ChatBot](https://drive.google.com/file/d/1o_98QO6tYCZCpME0TWXAOZQlHC0q81P8/view?usp=sharing): AI Chatbot for Discord
  - [Extreme Compressor](https://drive.google.com/file/d/1Sd6X5ZvDspjYvWM-kv3qv7NzznWmuMT_/view?usp=sharing): Compresses Video file size by a lot (more for memes)
  - [ASCII Converters](https://drive.google.com/file/d/1n1wnWfnY191-mgfK868y-HVRxP0CimdN/view?usp=sharing): Includes 4 scripts that convert Videos into various ASCII animations
- - [LLM BUilder](https://drive.google.com/file/d/1W3mnU7fRU_NluDr4HUk29GlRWoFF_fzx/view?usp=sharing): Used to create and test LLM models
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
