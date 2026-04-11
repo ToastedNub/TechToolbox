@@ -13,10 +13,10 @@
  - **ALL SCRIPTS HAVE A README EXPLAINING HOW TO USE THEM**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI Tools
- - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1eq-aBViQydrKHGKxN8lBl4rlP8jeOBnH/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
- - [RIFE AI Frame Interpolator](https://drive.google.com/file/d/1xIZJdMwynQJ4BnIwCnPjep1D2bC_wkAB/view?usp=sharing): Add frames to Videos or Gifs (BETA)
+ - [ESRGAN AI Upscaler](https://drive.google.com/file/d/1oe4vn-0uxWcGa4UM0XgWoCxIJA2zrldX/view?usp=sharing) Upscale & Enhance anything by 4x, 8x, 16x, or keep resolution
+ - [RIFE AI Frame Interpolator](https://drive.google.com/file/d/13398VXXh4Q2CrKbXClgQWwxcSnZJ2X2_/view?usp=sharing): Add frames to Videos or Gifs (BETA)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
- - [File Size Shrinker](https://drive.google.com/file/d/1RM74o-5yTK-4kB1VH7Bnc9ZGZvWBmTLY/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
- - [Adaptive Scaler](https://drive.google.com/file/d/1G2UC4vDVqHyc7Zyu6yyk6Ha2la_CNq_m/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
- - [Adaptive Scaler Plus](https://drive.google.com/file/d/1nVxRKeiaVLd4TZko6-9aQpnJXPu5qHit/view?usp=sharing): Same as Adaptive Scaler, but DOES enhance quality with resolution
+ - [File Size Shrinker](https://drive.google.com/file/d/1OLW_9MeyADz7-RRp1h5hVOPF1sfzr50V/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
+ - [Adaptive Scaler](https://drive.google.com/file/d/1_EojZdh20e2ahLF6sZfPjgiIuNI1kUK1/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+ - [Adaptive Scaler Plus](https://drive.google.com/file/d/1q5nb4SXz1yvApvq88XgENwj4a7_OGo5N/view?usp=sharing): Same as Adaptive Scaler, but DOES enhance quality with resolution
