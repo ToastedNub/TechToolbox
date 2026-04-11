@@ -1,11 +1,7 @@
 # TechToolBox
- - **[GET HELP](https://discord.gg/eUBfTeFYvB)**
- - **[REQUEST TO ADD SOMETHING](https://docs.google.com/forms/d/e/1FAIpQLSddCdAA52F080VDCcfoNhRMTCvJOTVfbndzSg2R7z_SnjQh-Q/viewform?usp=dialog)**
+ - **[LIST](https://github.com/ToastedNub/TechToolbox/blob/main/README.md)**
+ - **[REQUEST TO ADD SOMETHING](https://discord.gg/h5MVS3xbjV)**
  - **You need [VISUAL STUDIO](https://visualstudio.microsoft.com) installed for these**
- - **[PUBLIC LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Created.md)**
- - **[PYTHON LIST](https://github.com/ToastedNub/TechToolbox/blob/main/Python.md)**
- - **All scripts require the C++ redists below**
- - Once you open the **Visual Studio Installer**, make sure you add **Desktop Development C++** to the install
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **READ THE README FILE IN EACH ONE BEFORE YOU USE THEM**
  - All of these scripts use **C++**
