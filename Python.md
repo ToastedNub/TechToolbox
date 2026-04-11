@@ -1,6 +1,6 @@
 # TechToolBox
  - **[LIST](https://github.com/ToastedNub/TechToolbox/blob/main/README.md)**
- - **[REQUEST TO ADD SOMETHING](https://discord.gg/h5MVS3xbjV)**
+ - **[DISCORD](https://discord.gg/h5MVS3xbjV)**
 # Requirements For SOME
  - **[TORCH & CUDA](https://drive.google.com/file/d/1E5jy3iIFzEsO_UY4-zgi1ZoHRoE1ejZ9/view?usp=sharing)**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
