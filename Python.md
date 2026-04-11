@@ -21,7 +21,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Media Tools
  - [Video Editor](https://drive.google.com/file/d/163_V8EFAn00FNnFfQ4S2kqvobTMqjunl/view?usp=sharing): free fully modular video editor
- - [Adaptive Scaler](https://drive.google.com/file/d/13RQrBWssM_AF96h1qljfqlEui65lxAJu/view?usp=sharing) - [Plus Version](https://drive.google.com/file/d/1O65cHn0o_Ob6Fn274Bh3_0oscp1gLqON/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality) (Plus Version does enhance quality)
+ - [Adaptive Scaler](https://drive.google.com/file/d/13RQrBWssM_AF96h1qljfqlEui65lxAJu/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
+ - [Adaptive Scaler Plus](https://drive.google.com/file/d/1O65cHn0o_Ob6Fn274Bh3_0oscp1gLqON/view?usp=sharing): Same as Adaptive Scaler, but DOES enhance quality with resolution
  - [File Size Shrinker](https://drive.google.com/file/d/19B8-qAatZ8q8vT-d7SlaVtgGHxPI32y-/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
  - [Frame Alignment Fixer](https://drive.google.com/file/d/1i61S7JhEp8QNYqg7iXOBxKqQRZjQKckU/view?usp=sharing): Used to fix frameskips from exported videos
  - [ReEncoder](https://drive.google.com/file/d/1YC92GHE4bUCbjG0VYmOF-IErBGu2F1vf/view?usp=sharing): Used to ReEncode your Videos, without having to edit or ReRecord them
