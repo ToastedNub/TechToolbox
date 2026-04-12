@@ -22,7 +22,7 @@
 # Media Tools
  - [Simple Video Editor](https://drive.google.com/file/d/1A7RTOqDyATAqasrS0YRo7qGKXhdy2MrQ/view?usp=sharing): free fully modular video editor
  - [Adaptive Scaler](https://drive.google.com/file/d/1ODPgtsJHXh8Qws_QBkdvJwAOrySiCgfl/view?usp=sharing): Scale videos to the size of your choice (resolution, not quality)
- - [Adaptive Scaler Plus](https://drive.google.com/file/d/122ao51a1bNPdOIFoq6ms_BRr6T4mWYT2/view?usp=sharing): Same as Adaptive Scaler, but DOES enhance quality with resolution
+ - [Adaptive Scaler Plus](https://drive.google.com/file/d/1KDLJ35pz_6qaG6yVKva-netObilk2wak/view?usp=sharing): Same as Adaptive Scaler, but DOES enhance quality with resolution
  - [File Size Shrinker](https://drive.google.com/file/d/1t1pSg4cuigM6QuOeHw3TLaVzOZJEleXA/view?usp=sharing): Shrink videos without messing up quality (file size, not resolution)
  - [Frame Alignment Fixer](https://drive.google.com/file/d/1h8z43SRsONdyux_LRR5_23Qzes5TldxV/view?usp=sharing): Used to fix frameskips from exported videos
  - [ReEncoder](https://drive.google.com/file/d/1YC92GHE4bUCbjG0VYmOF-IErBGu2F1vf/view?usp=sharing): Used to ReEncode your Videos, without having to edit or ReRecord them
